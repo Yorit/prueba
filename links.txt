@@ -1,2 +1,3 @@
 https://devhints.io/git-log-format
 git config --global alias.verlog 'log --oneline --pretty="format:%h %an %s"'
+https://www.freecodecamp.org/espanol/news/git-stash-explicado/
